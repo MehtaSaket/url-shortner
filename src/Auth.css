@@ -36,7 +36,7 @@
   
   /* Additional CSS for full-page background styling */
   body {
-    background-image: url('C:\Users\TUF\OneDrive\Desktop\assignment-2\url-shortner\src\download.jpg'); /* Set your background image here */
+    background-image: url('./download.jpg'); /* Set your background image here */
     background-size: cover;
     background-position: center;
     height: 100vh;
