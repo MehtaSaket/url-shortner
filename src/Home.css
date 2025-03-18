@@ -7,7 +7,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: url('C:\\Users\\TUF\\OneDrive\\Desktop\\assignment-2\\url-shortner\\src\\download.jpg') no-repeat center center/cover;
+  background: url('./download.jpg') no-repeat center center/cover;
   font-family: 'Poppins', sans-serif;
 }
 
